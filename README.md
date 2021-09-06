@@ -1,4 +1,5 @@
-# SimpleStudentManagementSystem
-A student management system
+# Simple Student Management System
 
-Test
+Front-end Thymeleaf
+Back-end Spring Boot
+Database Mysql
